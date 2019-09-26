@@ -1,0 +1,7 @@
+organization=marslowinski
+projectKey=marslowinski_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.713
+dashboardUrl=https://sonarcloud.io/dashboard?id=marslowinski_mslearn-tailspin-spacegame-web
+ceTaskId=AW1khSIJnn5ZAcgHw0-j
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW1khSIJnn5ZAcgHw0-j
